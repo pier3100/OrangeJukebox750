@@ -51,7 +51,7 @@ An overview of all the basic components looks like this:
 
 # DJ deck plugin
 ## Architecture
-All the mixing tools we leave to other plugins and DAW infrastructure. The DJ tool we develop consists of a DJ deck, of which one can use many. The DJ deck plays a long audio file, keeps it in sync, and allows for jumping to other positions, scratching and nudging. The plugin is midi controller oriented, meaning that gui design is less emphasized. The music library is seperate.
+All the mixing tools we leave to other plugins and DAW infrastructure. The DJ tool we develop consists of a DJ deck, of which one can use many. The DJ deck plays a long audio file, keeps it in sync, and allows for jumping to other positions, scratching and nudging. The plugin is controller oriented, meaning that gui design is less emphasized. The music library is seperate.
 
 ## Features
 Basically the dj deck plugin plays an audio file from a given starting point at a given tempo. 

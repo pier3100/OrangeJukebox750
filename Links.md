@@ -1,4 +1,5 @@
 # A list of resources
+- https://github.com/sudara/awesome-juce
 - https://github.com/wolkenarchitekt/traktor-nml-utils
 - https://www.admiralbumblebee.com/music/2018/02/08/Write-a-Reaper-MIDI-JSFX-from-scratch.html#statements
 - https://hise.dev/
@@ -28,3 +29,10 @@
 - https://github.com/CNMAT/OSC
 - https://juce.com/
 - https://djworx.com/pidvs-raspberry-pi-based-dvs-alternative/
+- https://integraudio.com/9-best-dj-audio-plugins/
+- https://www.stagecraftsoftware.com/products/vinyllab/
+- https://pestrela.github.io/dj_kb/free_dj_tools/
+- https://a-rich.github.io/DJ-Tools/
+- https://github.com/classcompliant/awesome-dj-producer/
+- https://github.com/audiofluff/PyPhonic
+- https://www.playbenny.com/

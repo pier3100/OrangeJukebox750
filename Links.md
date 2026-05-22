@@ -36,3 +36,5 @@
 - https://github.com/classcompliant/awesome-dj-producer/
 - https://github.com/audiofluff/PyPhonic
 - https://www.playbenny.com/
+- https://github.com/FeignClaims/cpp_novice_template
+- https://www.learncpp.com/
